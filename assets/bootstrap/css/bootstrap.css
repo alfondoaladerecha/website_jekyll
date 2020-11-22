@@ -3640,10 +3640,12 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   border-top-right-radius: 0;
 }
 .navbar {
-  position: relative;
+  position: absolute;
   min-height: 50px;
   margin-bottom: 20px;
-  border: 1px solid transparent;
+  border: 1px solid black;
+  width: 100%;
+  background: white;
 }
 @media (min-width: 768px) {
   .navbar {
@@ -5417,11 +5419,10 @@ button.close {
 }
 .carousel {
   position: relative;
+  height: 100vh;
 }
 .carousel-inner {
   position: relative;
-  width: 100%;
-  overflow: hidden;
 }
 .carousel-inner > .item {
   position: relative;
@@ -5432,6 +5433,7 @@ button.close {
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
   line-height: 1;
+  height: 100vh;
 }
 .carousel-inner > .active,
 .carousel-inner > .next,
