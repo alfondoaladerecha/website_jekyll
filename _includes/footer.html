@@ -22,8 +22,20 @@
         -->
       </div>
       <div class="col-md-4">
-        <h3><i class="fa fa-heart"></i> Socialize</h3>
+        <h3><i class="fa fa-heart fa-0.5x"></i> Síguenos</h3>
         <div id="social-icons">
+          {% if site.spotify_link%}
+            <a href="{{ site.spotify_link}}" class="btn-group spotify">
+              <i class="fa fa-spotify fa-2x"></i>
+            </a>
+          {% endif %}
+
+          {% if site.itunes_link%}
+            <a href="{{ site.itunes_link}}" class="btn-group itunes">
+              <i class="fa fa-apple fa-2x"></i>
+            </a>
+          {% endif %}
+
           {% if site.googleplus_link %}
             <a href="{{ site.googleplus_link }}" class="btn-group google-plus">
               <i class="fa fa-google-plus"></i>
