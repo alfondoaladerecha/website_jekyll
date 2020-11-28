@@ -481,13 +481,13 @@ p.blog-text{
 /* ----- Footer ----- */
 .footer-widget{
     color:white;
-    margin-top: 55px;
+    padding-top: 55px;
     position: absolute;
 }
 
 
 footer .widget h4 {
-    margin-top: 20px;
+    padding-top: 20px;
     font-family: 'Changa', sans-serif;
     font-size: 20px;
     text-transform: uppercase;
