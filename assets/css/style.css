@@ -760,13 +760,11 @@ footer h3 {
 * ==========================================================================
 */
 .blog-teaser {
-  border: 1px solid #333;
   max-height:370px;
   background: white;
   display: table;
 }
 .blog-teaser__image {
-  border: 1px solid #333;
   background-color:#cd4;
 }
 .blog-teaser__image img {
@@ -830,3 +828,17 @@ footer h3 {
 .m-0 {
   margin: 0 !important;
 }
+
+.row {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+body {
+  background-color: white;
+}
+
