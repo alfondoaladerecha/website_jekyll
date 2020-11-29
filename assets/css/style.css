@@ -780,3 +780,41 @@ footer h3 {
 .blog-teaser__details {
   background: #F9C44B;
 }
+
+/*
+* ==========================================================================
+* Bootstrap Customize 
+* ==========================================================================
+*/
+
+.navbar {
+  position: absolute;
+  border: 1px solid black;
+  width: 100%;
+  background: white;
+}
+
+.carousel {
+  height: 100vh;
+}
+
+.carousel-inner > .item > a > img {
+  height: 100vh;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #000000;
+  border: 1px solid white;
+}
+
+.navbar-default .navbar-nav > li > a:focus {
+  color: #000000;
+  opacity: 0.8;
+  border: 1px solid black;
+}
+
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #000000;
+  border: 1px solid black;
+  background-color: transparent;
+}
