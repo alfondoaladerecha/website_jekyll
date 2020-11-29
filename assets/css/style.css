@@ -818,3 +818,15 @@ footer h3 {
   border: 1px solid black;
   background-color: transparent;
 }
+
+.p-0 {
+  padding: 0 !important;
+}
+
+.p-4 {
+  padding: 1.5rem !important;
+}
+
+.m-0 {
+  margin: 0 !important;
+}
