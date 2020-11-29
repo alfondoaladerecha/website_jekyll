@@ -759,17 +759,23 @@ footer h3 {
 * Blog style 
 * ==========================================================================
 */
+.blog-teaser:first-of-type {
+  margin-top:120px;
+}
+
 .blog-teaser {
   max-height:370px;
-  background: white;
-  display: table;
+  background: #EDEDED;
+  margin: 50px 0;
 }
+
 .blog-teaser__image {
   background-color:#cd4;
 }
 .blog-teaser__image img {
   width:100%;
 }
+
 .blog-teaser__details-wrapper {
   height:100%;
   display: flex;
@@ -777,7 +783,10 @@ footer h3 {
 }
 .blog-teaser__details {
   background: #F9C44B;
+  padding: 50px 20px;
 }
+
+
 
 /*
 * ==========================================================================
@@ -839,6 +848,6 @@ footer h3 {
 }
 
 body {
-  background-color: white;
+  background-color: #EDEDED;
 }
 
