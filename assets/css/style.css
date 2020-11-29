@@ -753,3 +753,30 @@ footer h3 {
     font-size: 14px;
   }
 }
+
+/*
+* ==========================================================================
+* Blog style 
+* ==========================================================================
+*/
+.blog-teaser {
+  border: 1px solid #333;
+  max-height:370px;
+  background: white;
+  display: table;
+}
+.blog-teaser__image {
+  border: 1px solid #333;
+  background-color:#cd4;
+}
+.blog-teaser__image img {
+  width:100%;
+}
+.blog-teaser__details-wrapper {
+  height:100%;
+  display: flex;
+  align-items: center;
+}
+.blog-teaser__details {
+  background: #F9C44B;
+}
