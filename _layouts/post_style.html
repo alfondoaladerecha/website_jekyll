@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+    {% include head.html %}
+    {% include header.html %}
+    {% include script.html %}
+<body>
+    <div class="container"> 
+        <div class="post-title">
+            <h1>{{ page.title }}</h1>
+        </div>
+        <div class="post-teaser">
+            <div class="row m-0">
+                <div class="col-md-4 p-0">
+                    <div class="post-teaser__image">
+                        <div class="image_overlay">
+                        <a href="#"><img src="../assets/img/posts/{{ page.picture }}" /></a>
+                        <a href="#" class="playWrapper"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-8 p-0">
+                      <p>{{ page.description }}</p>
+                </div>
+            </div>
+        </div>
+        <div class="post-notes">
+                <p align=center>Notas del Episodio:</p>
+        </div>
+        <div class="post_content">
+            {{ content }}
+        </div>
+        <div class="post_share_buttons">
+            <h2>Comparte:</h2>
+            {% include share_buttons.html %}
+        </div>
+    </div>
+</body>
+{% include footer.html %}
+</html>
+
