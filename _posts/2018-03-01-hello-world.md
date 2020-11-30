@@ -1,15 +1,28 @@
 ---
+layout: post_style
 title: "Alice in Wonderland, part dos"
-description: "'You ought to be ashamed of yourself for asking such a simple question,' added the Gryphon; and then they both sat silent and looked at poor Alice, who felt ready to sink into the earth. At last the Gryphon said to the Mock Turtle, 'Drive on, old fellow! Don't be all day about it!' and he went on in these words:
-'Yes, we went to school in the sea, though you mayn't believe it—'
-'I never said I didn't!' interrupted Alice.
-'You did,' said the Mock Turtle."
+description: "'You ought to be ashamed of yourself for asking such a simple question,' added the Gryphon; and then they both sat silent and looked at poor Alice, who felt ready to sink into the earth. At last the Gryphon said to the Mock Turtle, 'Drive on, old fellow! Don't be all day about it!' and he went on in these words"
 picture: blog1.jpg
-
-label_default: "alice" 
-label_primary: "story"
-label_success: "blog"
-label_info: "personal"
-label_warning: "warning"
-label_danger: "danger"
 ---
+
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eget volutpat risus, id condimentum est. Nunc non malesuada dolor. Curabitur sodales, felis nec tempor dignissim, ipsum turpis vestibulum metus, nec pretium augue enim id tellus. Pellentesque dui nulla, dictum a eleifend nec, placerat vel purus. Aenean non mauris et odio euismod pharetra. Sed condimentum nibh at felis ultrices, eget posuere nibh lacinia. Vivamus id dignissim dolor, ut placerat risus. Duis vestibulum, mi id lacinia rhoncus, elit odio dignissim tortor, id aliquet leo risus quis leo. Quisque dolor erat, semper sit amet ultricies vitae, venenatis quis orci. Sed leo augue, varius in posuere ac, molestie sit amet sapien. Donec vitae arcu eget nibh pulvinar faucibus. Nullam consectetur, nunc et malesuada luctus, justo orci laoreet purus, a ullamcorper lectus lacus id massa. In ullamcorper gravida mi, at ullamcorper sapien convallis a.
+
+Vivamus placerat eros at arcu maximus placerat. Donec sit amet vestibulum dolor. Morbi aliquam, purus malesuada faucibus sollicitudin, dui lacus suscipit ligula, non posuere nisl lectus sit amet dui. Pellentesque tempus velit et urna varius tempus. Mauris a diam augue. Sed sed felis lorem. Sed iaculis, augue et dictum efficitur, odio metus aliquam lorem, ut sodales ligula risus ut leo. Pellentesque sit amet iaculis mauris. Duis nunc erat, pellentesque elementum ligula sed, aliquet consectetur libero. Quisque fringilla a est quis pellentesque. Suspendisse scelerisque justo nibh, quis laoreet mi gravida sed. Aenean egestas lorem eget urna varius, eget congue ex blandit. Nam at elementum libero.
+
+Mauris maximus odio odio. Donec in maximus risus, ut feugiat diam. Sed iaculis mauris et viverra cursus. Ut vestibulum dui et elit molestie, sed aliquam est imperdiet. Donec sed pharetra erat. Duis cursus arcu vitae urna hendrerit vestibulum. Donec consectetur, sem at aliquet commodo, turpis sem porta tortor, eget tristique urna sapien et nibh. Integer sodales aliquam elit id ultricies. Morbi sodales velit mattis pulvinar varius. Nam eleifend sagittis tortor, et volutpat magna ornare sit amet. Sed nunc massa, volutpat at condimentum id, porttitor eu augue. Aenean finibus nunc id mauris efficitur ultrices. Nullam pretium fermentum faucibus. Nunc imperdiet rhoncus mi eget ornare. Donec sed rhoncus arcu.
+
+Aliquam tincidunt nibh dapibus, fringilla sem quis, volutpat nisi. Maecenas nec neque accumsan, bibendum odio eget, euismod ex. Aenean rhoncus eleifend elit, sit amet volutpat lorem volutpat sit amet. In convallis lorem at neque placerat tempor. Quisque mollis ornare ipsum id laoreet. Curabitur auctor efficitur convallis. Proin ut mi eu odio molestie laoreet. Donec sollicitudin urna eu lacus ullamcorper ultricies. Aenean at tincidunt augue. Mauris orci purus, porttitor in elit sit amet, consequat vehicula arcu. Vestibulum quis mauris sit amet est vehicula rutrum in sit amet lorem. Proin euismod vestibulum justo, sed commodo nibh.
+
+Aenean et dui ut nisl interdum volutpat ut sed massa. Pellentesque non nisl dui. Nam blandit, lacus nec tristique varius, velit turpis egestas lacus, nec congue enim metus vitae est. Aliquam placerat sapien tempus facilisis pretium. Quisque velit neque, consectetur vel justo sed, faucibus condimentum odio. Quisque tristique vitae lorem tincidunt convallis. Morbi ullamcorper lorem in vulputate imperdiet.
+
+Integer ultricies, risus a porta molestie, lorem metus facilisis arcu, et interdum risus purus eget risus. Nullam id diam odio. Cras ut pharetra risus, sed sagittis neque. Nam et elit lobortis tellus dapibus ullamcorper. Ut luctus lorem ac risus eleifend, quis lobortis mauris rhoncus. Ut vestibulum id risus vel mollis. In dapibus molestie nisi, ut scelerisque eros. Aenean eget dapibus purus, id tempus metus. Ut eget viverra sem. Sed accumsan bibendum dignissim. Nam quis fringilla erat, ut auctor elit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+Suspendisse feugiat molestie nisi, eu feugiat massa aliquam eget. Suspendisse potenti. Donec consectetur purus massa, eu viverra dolor sodales vel. Nulla dapibus sem sed quam cursus imperdiet. Proin libero sapien, auctor sed tortor sed, mattis pharetra sem. Morbi varius vestibulum tortor, vel ullamcorper libero vehicula et. Proin a urna nec libero vulputate tincidunt eget eget dui. Sed laoreet neque eu porta pretium. Nullam quis nisl faucibus, accumsan lectus non, fermentum leo. Phasellus in rhoncus leo, lacinia pharetra nulla. Curabitur elementum tincidunt ullamcorper.
+
+Ut ultricies feugiat dui, sed blandit purus porta at. Cras tempus, nibh ac congue finibus, libero sapien varius orci, at consequat nisi lorem ac est. Nullam fringilla purus at est rutrum, non mattis justo rhoncus. Aliquam vitae lacus euismod, euismod risus ac, posuere nisl. Aliquam sodales pellentesque ipsum, placerat tincidunt leo. Nullam et gravida ipsum. Nunc bibendum diam ac lacus varius, pharetra vehicula nulla elementum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus rutrum volutpat. Ut non aliquet velit, eu rutrum nisi. Vestibulum commodo sagittis velit non volutpat. Suspendisse mattis eros ut augue pellentesque, vitae maximus urna congue. Vestibulum et pharetra nunc. In mattis, metus eget interdum aliquet, ex tortor condimentum libero, et luctus sem lorem quis nisl. Etiam sodales nunc nec arcu fringilla, a pretium mauris facilisis. Maecenas lectus nisi, sollicitudin quis varius faucibus, pretium non nulla.
+
+Aenean eget nibh nec sem laoreet fringilla. Aliquam tempus egestas maximus. Duis egestas pellentesque ligula, tincidunt venenatis nibh congue vel. Sed ipsum dui, vehicula a leo nec, dignissim vulputate nunc. Etiam a dolor tortor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales lacus id magna egestas gravida. Mauris id erat eget neque accumsan scelerisque. Vivamus hendrerit enim vitae urna tincidunt, ut varius sem vulputate. Fusce vestibulum tellus ac vehicula condimentum. Sed porta, nulla id posuere blandit, odio arcu blandit neque, ac pretium turpis turpis in sapien. Sed consequat, libero vel mattis interdum, enim lectus maximus tortor, in rhoncus lacus felis ut augue.
+
+Phasellus tempor velit at ante rutrum, nec posuere odio fringilla. Proin tincidunt maximus ullamcorper. Nam tempor metus diam, commodo tempor augue tristique vel. Quisque elementum semper gravida. Fusce a luctus erat, vel tincidunt lorem. Nam diam quam, volutpat id nisl id, elementum sagittis mi. Pellentesque sagittis placerat nisi placerat pulvinar. Sed pellentesque nibh eros. 
