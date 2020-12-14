@@ -43,6 +43,10 @@ spotify_link: https://www.spotify.com/
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+
+paginate: 10 
+paginate_path: "/episodes_list/:num/"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
