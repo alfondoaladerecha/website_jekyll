@@ -7,7 +7,7 @@
 
 <!-- Main Container -->
 <div class="container">
- {% for post in site.posts %}
+ {% for post in site.posts limit:3 %}
   <div class="blog-teaser">
     <div class="row m-0">
       <div class="col-md-4 p-0">
@@ -33,7 +33,11 @@
     </div>
   </div>
 {% endfor %}
-
+{% if site.posts.size  > 3 %}
+    <div class="row m-0">
+        <h2><a href="{{ site.url }}/episodes_list">Ver mas episodios</a></h2>
+    </div>
+{% endif %}
 </div>
 
   </body>
