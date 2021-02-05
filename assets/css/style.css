@@ -782,7 +782,7 @@ footer h3 {
   align-items: center;
 }
 .blog-teaser__details {
-  background: #F9C44B;
+  background: #FDE7B5;
   padding: 50px 20px;
 }
 
@@ -845,7 +845,7 @@ footer h3 {
 .post-notes{
     max-width: 200px;
     font-weight: bold;
-    background: #F9C44B;
+    background: #FDE7B5;
     margin-top: 20px;
     margin-bottom: 20px;
     padding-top: 10px;
@@ -875,7 +875,7 @@ footer h3 {
 	
 #mailchimp input {
     border: medium none;
-    color: #F9C44B;
+    color: #FDE7B5;
     font-size: 20px;
     font-weight: bold;
     letter-spacing: 2px;
