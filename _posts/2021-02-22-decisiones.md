@@ -1,8 +1,8 @@
 ---
 layout: post_style
-title: "Alice in Wonderland, part dos"
+title: "Sabia que esa pregunta iba a venir"
 description: "'You ought to be ashamed of yourself for asking such a simple question,' added the Gryphon; and then they both sat silent and looked at poor Alice, who felt ready to sink into the earth. At last the Gryphon said to the Mock Turtle, 'Drive on, old fellow! Don't be all day about it!' and he went on in these words"
-picture: ep001.png
+picture: ep002.png
 ---
 
 
