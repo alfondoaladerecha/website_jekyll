@@ -39,6 +39,8 @@ google_map: https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3618.727010735
 itunes_link: https://www.apple.com/itunes/
 spotify_link: https://www.spotify.com/
 
+future: false
+
 # Build settings
 markdown: kramdown
 plugins:
