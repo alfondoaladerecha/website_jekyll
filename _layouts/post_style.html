@@ -14,12 +14,12 @@
                     <div class="post-teaser__image">
                         <div class="image_overlay">
                         <a href="#"><img src="../assets/img/posts/{{ page.picture }}" /></a>
-                        <a href="#" class="playWrapper"></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-8 p-0">
                     <p>{{ page.description }}</p></br>
+                    <iframe style="border: none" src={{ page.audiotrack }} height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
                     <h2>Comparte:</h2>
                         {% include share_buttons.html %}
                 </div>
