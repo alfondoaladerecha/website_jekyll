@@ -3,6 +3,7 @@ layout: post_style
 title: "Sabia que esa pregunta iba a venir"
 description: "Cuantos de nosotros a mencionado esta frase. 'Sabia que me iba a pasar eso.. ahhhhh!'.  O pensaron que tomaron una mala decisión solo porque el resultado no fue el que ustedes querian.  Bueno, no son los únicos. En este episodio hablamos sobre como mejorar nuestro proceso de toma de decisiones. "
 picture: ep002.png
+audiotrack: "//html5-player.libsyn.com/embed/episode/id/17956100/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/87A93A/" 
 ---
 
 Cuantos de nosotros a mencionado estas frases. "ay no! Sabia que tenia que estudiar ese tema.", "Te lo dije... te dije que te iba a pasar eso. Para la próxima me escuchas".
