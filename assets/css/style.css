@@ -745,7 +745,7 @@ footer h3 {
 }
 @media (max-width: 767px) {
   .carousel-caption {
-    font-size: 11px;
+    font-size: 200px;
     padding-bottom: 0;
     bottom: 0;
   }
@@ -754,6 +754,26 @@ footer h3 {
   }
 }
 
+.banner {
+  position: relative;
+  height: 100vh;
+}
+
+.banner-__listenus{
+  position: absolute;
+  font-size: 25px;
+  font-family: "Raleway";
+  top: 85%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.banner-title{
+  position: absolute;
+  font-size: 50px;
+  font-family: "Raleway";
+  top: 130%;
+  left: 27.5%;
+}
 /*
 * ==========================================================================
 * Blog style 
