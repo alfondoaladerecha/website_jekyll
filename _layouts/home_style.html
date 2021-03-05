@@ -10,45 +10,21 @@
     <section id="carousel-section" class="section-global-wrapper"> 
         <div class="container-fluid-kamn">
             <div class="row">
-                <div id="carousel-1" class="carousel slide" data-ride="carousel">
+                <div class="banner" >
 
                     <!-- Indicators -->
-                    <ol class="carousel-indicators visible-lg">
-                        <li data-target="#carousel-1" data-slide-to="0" class="active"></li>
-                        <li data-target="#carousel-1" data-slide-to="1"></li>
-                    </ol>
-        
+                            
                     <!-- Wrapper for slides -->
                     <div class="carousel-inner" role="listbox">
                         <!-- Begin Slide 1 -->
                         <div class="item active">
-                            <img src="../assets/img/slider/img1.jpg" alt="Image of first carousel">
-                            <div class="carousel-caption">
-                                <h3 class="carousel-title hidden-xs">Office BOOTSTRAP TEMPLATE</h3>
-                                <p class="carousel-body">RESPONSIVE \ MULTI PAGE</p>
-                            </div>
+                            <img src="../assets/img/slider/banner.png" alt="Image of first carousel">
                         </div>
-                        <!-- End Slide 1 -->
-
-                        <!-- Begin Slide 2 -->
-                        <div class="item">
-                            <img src="../assets/img/slider/img2.jpg" alt="Image of second carousel">
-                            <div class="carousel-caption">
-                                <h3 class="carousel-title hidden-xs">EASY TO CUSTOMIZE</h3>
-                                <p class="carousel-body">BEAUTIFUL \ CLEAN \ MINIMAL</p>
-                            </div>
+                        <div class="banner-title">
+                            {%- assign latest_post = site.posts[0] -%}
+                             <iframe style="border: none" src={{ latest_post.audiotrack }} height="90" width="300%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
                         </div>
-                        <!-- End Slide 2 -->
-
                     </div>
-        
-                    <!-- Controls -->
-                    <a class="left carousel-control" href="#carousel-1" data-slide="prev">
-                        <span class="glyphicon glyphicon-chevron-left"></span>
-                    </a>
-                    <a class="right carousel-control" href="#carousel-1" data-slide="next">
-                        <span class="glyphicon glyphicon-chevron-right"></span>
-                    </a>
                 </div>
             </div>
         </div>
