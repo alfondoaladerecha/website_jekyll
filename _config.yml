@@ -35,9 +35,9 @@ google_map: https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3618.727010735
 # facebook_link: http://www.facebook.com
 # twitter_link: http://www.twitter.com 
 # linkedin_link: http://www.linkedin.com
-# googleplus_link: http://plus.google.com
-itunes_link: https://www.apple.com/itunes/
-spotify_link: https://www.spotify.com/
+# googleplus_link: https://podcasts.google.com/feed/aHR0cHM6Ly9hbGZvbmRvYWxhZGVyZWNoYS5saWJzeW4uY29tL3Jzcw?sa=X&ved
+itunes_link: https://podcasts.apple.com/us/podcast/al-fondo-a-la-derecha/id1555831762?itsct=podcast_box&itscg=30200
+spotify_link: https://open.spotify.com/show/7e0E3Z80INtfR0iFhWW6KG 
 
 future: false
 
