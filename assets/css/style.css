@@ -775,7 +775,14 @@ footer h3 {
 .blog-teaser__image img {
   width:100%;
 }
-
+.blog-teaser__episode_number{
+  position: absolute;
+  font-size: 25px;
+  font-family: "Raleway";
+  top: 85%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
 .blog-teaser__details-wrapper {
   height:100%;
   display: flex;
@@ -811,7 +818,14 @@ footer h3 {
     width: auto;
     height: auto;
 }
-
+.post-teaser__episode_number{
+  position: absolute;
+  font-size: 25px;
+  font-family: "Raleway";
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
 .image_overlay {
     position: relative;
     margin-left: auto;
