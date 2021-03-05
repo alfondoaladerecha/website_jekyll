@@ -4,7 +4,7 @@ title: "Pro tips para tomar decisiones"
 description: "Cuantos de nosotros a mencionado esta frase. 'Sabia que me iba a pasar eso.. ahhhhh!'.  O pensaron que tomaron una mala decisión solo porque el resultado no fue el que ustedes querian.  Bueno, no son los únicos. En este episodio hablamos sobre como mejorar nuestro proceso de toma de decisiones. "
 episode_num: 2
 picture: portada_par.png
-audiotrack: "//html5-player.libsyn.com/embed/episode/id/17956100/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/87A93A/" 
+audiotrack: "//html5-player.libsyn.com/embed/episode/id/17956100/height/90/theme/custom/thumbnail/no/direction/backward/render-playlist/no/custom-color/000000/" 
 ---
 
 Cuantos de nosotros a mencionado estas frases. "ay no! Sabia que tenia que estudiar ese tema.", "Te lo dije... te dije que te iba a pasar eso. Para la próxima me escuchas".
