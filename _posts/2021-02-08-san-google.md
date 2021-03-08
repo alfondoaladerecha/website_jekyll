@@ -4,7 +4,7 @@ episode_num: 1
 title: "San Google muestranos el camino"
 description: "Este es el primer episodio introductorio de Al fondo a la Derecha (AFAD). No solo nos presentamos sino tambien les explicamos como googlear lo que quieren sin perderse en los multiversos de google viendo gatos. "
 picture: portada_impar.png
-audiotrack:  "//html5-player.libsyn.com/embed/episode/id/17833583/height/90/theme/custom/thumbnail/no/direction/backward/render-playlist/no/custom-color/000000/"
+audiotrack: 17833583
 ---
 
 Este es el primer episodio introductorio de Al fondo a la Derecha (AFAD). No solo nos presentamos sino tambien les explicamos como googlear lo que quieren sin perderse en los multiversos de google viendo gatos. 
