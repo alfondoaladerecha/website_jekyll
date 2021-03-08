@@ -768,11 +768,10 @@ footer h3 {
   transform: translate(-50%, -50%);
 }
 .banner-title{
-  position: absolute;
+  position: relative;
   font-size: 50px;
   font-family: "Raleway";
-  top: 130%;
-  left: 27.5%;
+  transform: translate(25%, -120%);
 }
 /*
 * ==========================================================================
